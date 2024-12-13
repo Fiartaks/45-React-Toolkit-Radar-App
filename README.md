@@ -26,4 +26,12 @@
 - 🌐 Fetched live flight data from the API.  
 - 📈 Displayed flight data in both list and map formats.  
 - 📋 Incorporated modal functionality to show detailed flight information.  
-- 📊 Used pagination to navigate through a list of flights.  
+- 📊 Used pagination to navigate through a list of flights.
+
+## 🧩 Libraries
+- 📘 React  
+- 🛠️ Redux  
+- 🗺️ React-Leaflet  
+- 🌏 Axios  
+- 🎨 Bootstrap  
+- 📄 React-Paginate  
